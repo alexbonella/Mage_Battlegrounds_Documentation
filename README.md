@@ -67,6 +67,7 @@ I've deployed Apache Druid into an EC2 instance in order to connect with the Kaf
 
 Here I want to share with you an [article](https://datexland.medium.com/how-to-deploy-apache-druid-on-aws-ec2-instance-50af955edef) that I wrote recently about How can I deploy Apache Druid into EC2 instances
 
+* EC2 Instances :  **```t2.xlarge```** - [Go Pricing](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/Media_files/EC2_Pricing.png)
 
 ![Druid action](https://miro.medium.com/v2/resize:fit:786/1*ZGpZLHqwTKHhX5zmPpEIEQ.gif)
 
