@@ -57,14 +57,27 @@ I've created 2 Kaftka topics in order to analysis purchase behavior of our custo
 
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/45697319/232314270-e16aff64-1c88-469a-9fb8-9642bcad05c2.png">
 
-
-
 # Mage Zone
 
 I've created 2 Streaming pipelines in order to enrich my Kafka topics and to store new records into S3 Buckets  :
 
-* **:**
-* **:**
+* **Kafka_transform:** This pipeline is in charge to edit the created_at field in order t create  2 new columns Date(YYYY-MM--DD) and Hour
+* **Store_s3_bucket:** This pipeline is in charge to send parquet files into the S3 Bucket .
+
+```
+connector_type: amazon_s3
+bucket: mage-hackaton
+prefix: purchase
+file_type: parquet
+buffer_size_mb: 5
+buffer_timeout_seconds: 100
+```
+
+![transform](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/Media_files/kafka_transofmr.png)
+![store_s3](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/Media_files/store_s3.png)
+
+
+
 # Apache Druid Deploy
 
 I've deployed Apache Druid into an EC2 instance in order to connect with the Kafka topic stream and finally be able to analysis as easy as quickly my purchase records .
