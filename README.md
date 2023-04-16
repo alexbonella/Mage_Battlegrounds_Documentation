@@ -35,7 +35,8 @@ The goal with this example is to simulate an e-commerce platform for computers a
 # Infrastructure
 ![Infra_Kinseis_AWS - copia drawio](https://user-images.githubusercontent.com/45697319/232306813-e6e151bf-01eb-4e2e-b1cf-c4853cef9632.png)
 # 🎮 Demo
-
+![DemoGif](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/Media_files/kafka-mage_z28BiI5y.gif
+)
 
 # Python Script simulation
 
@@ -51,8 +52,11 @@ I wanted to simulate with Python the streaming data of my e-commerce platform fo
 
 I've created 2 Kaftka topics in order to analysis purchase behavior of our customer  :
 
-* **:**
-* **:**
+* **topic_purchase_records:** This topic receive the raw purchase records 
+* **topic_druid_grafana_new:** This topic receive the **```topic_purchase_records```** records in order to enrich records to send into the new kafka topic
+
+<img width="516" alt="image" src="https://user-images.githubusercontent.com/45697319/232314270-e16aff64-1c88-469a-9fb8-9642bcad05c2.png">
+
 
 
 # Mage Zone
