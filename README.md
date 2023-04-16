@@ -17,6 +17,9 @@ The goal with this example is to simulate an e-commerce platform for computers a
 * Consider all order statuses you want
 * Choose the number of stores per city you want, with their respective coordinates
 
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/45697319/232307457-a19e9a78-0685-4b01-b502-fab71aa1a706.png">
+
+
 **Lets Do it !! 🚀**
 
 # 📃 Overview :
