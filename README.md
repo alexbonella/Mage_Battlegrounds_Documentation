@@ -3,16 +3,22 @@
 
 # 📃 Overview :
 
-1. Infrastructure
-2. Demo
-3. Python Script simulation
-4. Send Kafka Topics
-5. Mage Zone
-6. Apache Druid Deploy
-7. Grafana
-8. [License](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/Mage_Battlegrounds_Documentation#-License)
+1. [Infrastructure](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/edit/main/README.md#infrastructure)
+2. [Demo](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/edit/main/README.md#-demo)
+3. [Python Script simulation](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/edit/main/README.md#python-script-simulation)
+4. [Send Kafka Topics](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/edit/main/README.md#send-kafka-topics)
+5. [Mage Zone](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/edit/main/README.md#mage-zone)
+6. [Apache Druid Deploy](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/edit/main/README.md#apache-druid-deploy)
+7. [Grafana](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/edit/main/README.md#-grafana)
 
+# Infrastructure
 # 🎮 Demo
+# Python Script simulation
+# Send Kafka Topics
+# Mage Zone
+# Apache Druid Deploy
+# Grafana
+
 
 # License
 
