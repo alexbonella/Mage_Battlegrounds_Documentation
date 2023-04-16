@@ -92,6 +92,11 @@ Here I want to share with you an [article](https://datexland.medium.com/how-to-d
 # Grafana
 <img width="625" alt="image" src="https://user-images.githubusercontent.com/45697319/232315116-1ecd99bd-7634-4b83-a9f6-052cef2f009e.png">
 
+### Grafana Alerts 
+When your Order Fill % is below 60%, we'll get a message like that because we need to be able to quickly make a decision when this metric falls below its value
+
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/45697319/232317020-005aaa42-605a-442d-a239-f11ffb4f7778.png">
+
 # License
 
 [![License Mit](https://img.shields.io/badge/License-Mit-green)](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/LICENSE)
