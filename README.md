@@ -38,6 +38,15 @@ The goal with this example is to simulate an e-commerce platform for computers a
 
 
 # Python Script simulation
+
+I wanted to simulate with Python the streaming data of my e-commerce platform for computers and video games keeping in mind that I have 1000 unique user, we can go to access to code here :
+
+* [Go to the Notebook](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/Ecommerce_Simulation/Ecommerce_Simulation_Hackacton_Mage.ipynb)
+* [Go to utils.py](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/Ecommerce_Simulation/utils.py)
+## Sample purchase records
+
+<img width="259" alt="image" src="https://user-images.githubusercontent.com/45697319/232308179-8fb8f1aa-dde3-4407-be12-b2fa5204720b.png">
+
 # Send Kafka Topics
 # Mage Zone
 # Apache Druid Deploy
