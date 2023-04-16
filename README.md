@@ -1,0 +1,1 @@
+# Mage_Battlegrounds_Documentation
