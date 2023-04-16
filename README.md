@@ -1,6 +1,24 @@
 # Mage_Battlegrounds_Documentation
 ![image](https://user-images.githubusercontent.com/45697319/232301439-2f26e640-7c30-4bfe-a41e-a07f130833e7.png)
 
+<h1><center>Case Study</center></h1>
+
+## Objective:
+
+The goal with this example is to simulate an e-commerce platform for computers and video games.
+
+* Features to be considered:
+* 3 computer brands of your choice
+* 3 video game console brands
+* Prices per computer, per console for each brand with their respective commission
+* Consider the 5 most important cities in your country of residence
+* Consider all payment methods you wish to use
+* Consider source of conversion (Advertising, Influencers, Organic)
+* Consider all order statuses you want
+* Choose the number of stores per city you want, with their respective coordinates
+
+**Lets Do it !! 🚀**
+
 # 📃 Overview :
 
 1. [Infrastructure](https://github.com/alexbonella/Mage_Battlegrounds_Documentation#infrastructure)
@@ -12,7 +30,10 @@
 7. [Grafana](https://github.com/alexbonella/Mage_Battlegrounds_Documentation#grafana)
 
 # Infrastructure
+![Infra_Kinseis_AWS - copia drawio](https://user-images.githubusercontent.com/45697319/232306813-e6e151bf-01eb-4e2e-b1cf-c4853cef9632.png)
 # 🎮 Demo
+
+
 # Python Script simulation
 # Send Kafka Topics
 # Mage Zone
