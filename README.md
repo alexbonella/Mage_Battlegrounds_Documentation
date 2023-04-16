@@ -89,7 +89,7 @@ Here I want to share with you an [article](https://datexland.medium.com/how-to-d
 ![Druid action](https://miro.medium.com/v2/resize:fit:786/1*ZGpZLHqwTKHhX5zmPpEIEQ.gif)
 
 # Grafana
-
+<img width="625" alt="image" src="https://user-images.githubusercontent.com/45697319/232315116-1ecd99bd-7634-4b83-a9f6-052cef2f009e.png">
 
 # License
 
