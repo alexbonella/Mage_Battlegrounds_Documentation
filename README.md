@@ -7,7 +7,8 @@
 
 The goal with this example is to simulate an e-commerce platform for computers and video games.
 
-* Features to be considered:
+### Features to be considered:
+
 * 3 computer brands of your choice
 * 3 video game console brands
 * Prices per computer, per console for each brand with their respective commission
