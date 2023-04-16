@@ -3,13 +3,13 @@
 
 # 📃 Overview :
 
-1. [Infrastructure](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/main/README.md#infrastructure)
-2. [Demo](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/main/README.md#-demo)
-3. [Python Script simulation](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/main/README.md#python-script-simulation)
-4. [Send Kafka Topics](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/main/README.md#send-kafka-topics)
-5. [Mage Zone](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/main/README.md#mage-zone)
-6. [Apache Druid Deploy](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/main/README.md#apache-druid-deploy)
-7. [Grafana](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/main/README.md#-grafana)
+1. [Infrastructure](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/README.md#infrastructure)
+2. [Demo](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/README.md#-demo)
+3. [Python Script simulation](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/README.md#python-script-simulation)
+4. [Send Kafka Topics](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/README.md#send-kafka-topics)
+5. [Mage Zone](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/README.md#mage-zone)
+6. [Apache Druid Deploy](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/README.md#apache-druid-deploy)
+7. [Grafana](https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/README.md#-grafana)
 
 # Infrastructure
 # 🎮 Demo
