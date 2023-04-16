@@ -48,8 +48,28 @@ I wanted to simulate with Python the streaming data of my e-commerce platform fo
 <img width="259" alt="image" src="https://user-images.githubusercontent.com/45697319/232308179-8fb8f1aa-dde3-4407-be12-b2fa5204720b.png">
 
 # Send Kafka Topics
+
+I've created 2 Kaftka topics in order to analysis purchase behavior of our customer  :
+
+* **:**
+* **:**
+
+
 # Mage Zone
+
+I've created 2 Streaming pipelines in order to enrich my Kafka topics and to store new records into S3 Buckets  :
+
+* **:**
+* **:**
 # Apache Druid Deploy
+
+I've deployed Apache Druid into an EC2 instance in order to connect with the Kafka topic stream and finally be able to analysis as easy as quickly my purchase records .
+
+Here I want to share with you an [article](https://datexland.medium.com/how-to-deploy-apache-druid-on-aws-ec2-instance-50af955edef) that I wrote recently about How can I deploy Apache Druid into EC2 instances
+
+
+![Druid action](https://miro.medium.com/v2/resize:fit:786/1*ZGpZLHqwTKHhX5zmPpEIEQ.gif)
+
 # Grafana
 
 
