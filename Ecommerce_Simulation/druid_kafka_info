@@ -1,0 +1,5 @@
+{ "bootstrap.server": "pkc-n00kk.us-east-1.aws.confluent.cloud:9092", "security.protocol" : "SASL_SSL", "sasl.jaas.config" : "org.apache.kafka.common.security.plain.PlainLoginModule required username='xX_Xx_x_x_x_x_x' password='xX_Xx_x_x_x_x_x';", "sasl.mechanism": "PLAIN"}
+
+
+topic_send_druid_grafana
+
