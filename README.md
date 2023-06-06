@@ -1,6 +1,11 @@
 # Mage_Battlegrounds_Documentation
 ![image](https://user-images.githubusercontent.com/45697319/232301439-2f26e640-7c30-4bfe-a41e-a07f130833e7.png)
 
+# Winners 
+
+<img src="https://media.licdn.com/dms/image/D4D22AQHCtXLpGhm-pg/feedshare-shrink_2048_1536/0/1682175867935?e=1688601600&v=beta&t=TsA_DUu0e7_yLyPtTtYHFyTtACG_rXXXq1ZKXPCI6ic" width="300" height="300"/>
+
+
 <h1><center>Case Study</center></h1>
 
 ## Objective:
