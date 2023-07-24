@@ -3,8 +3,7 @@
 
 # Winners 
 
-<img src="https://media.licdn.com/dms/image/D4D22AQHCtXLpGhm-pg/feedshare-shrink_2048_1536/0/1682175867935?e=1688601600&v=beta&t=TsA_DUu0e7_yLyPtTtYHFyTtACG_rXXXq1ZKXPCI6ic" width="300" height="300"/>
-
+<img src="https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/Media_files/1682175867930.jpeg" width="400" height="400" text-align="center">
 
 <h1><center>Case Study</center></h1>
 
