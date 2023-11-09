@@ -3,7 +3,9 @@
 
 # Winners 
 
-<img src="https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/Media_files/1682175867930.jpeg" width="400" height="400" text-align="center">
+<p align="center">
+  <img width="400" alt="image" src="https://github.com/alexbonella/Mage_Battlegrounds_Documentation/blob/main/Media_files/1682175867930.jpeg">
+</p>
 
 <h1><center>Case Study</center></h1>
 
